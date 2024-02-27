@@ -1,0 +1,22 @@
+.link{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.link:hover{
+    font-weight: bolder;
+}
+
+.link:active{
+    color: aquamarine;
+}
+
+.nav{
+    background-color: black;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
