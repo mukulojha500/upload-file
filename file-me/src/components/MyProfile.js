@@ -1,8 +1,11 @@
 import React from 'react'
+import Login from './Login'
 
 function MyProfile() {
   return (
-    <div>MyProfile</div>
+    <div>
+      <Login/>
+    </div>
   )
 }
 
